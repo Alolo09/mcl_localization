@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.egg-info/
+maps/venv_mapa/
+build/
+install/
+log/
